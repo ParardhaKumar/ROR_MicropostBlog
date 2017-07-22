@@ -7,5 +7,8 @@ class StaticPagesController < ApplicationController
 
   def about
   end
+
+  def contact
+  end
 end
 #Ruby refers to Class Names using CamelCase
